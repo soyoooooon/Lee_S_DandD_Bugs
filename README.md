@@ -17,4 +17,4 @@ Fortunately, I figured that I can use "elementCount" for
 
 
 
-* Soyoon Lee([E-mail]("s_lee77176@fanshaweonline"))
+* Soyoon Lee([E-mail]("s_lee77176@fanshaweonline.ca"))
