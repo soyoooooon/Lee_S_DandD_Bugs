@@ -19,4 +19,4 @@ For the different bug, I tried to use "clear.Data" and "querySelector". I still 
 
 
 
-* Soyoon Lee([E-mail] <fanshaweonline.ca>)
+* Soyoon Lee([E-mail] <s_lee77176@fanshaweonline.ca>)
